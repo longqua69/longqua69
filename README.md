@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on LSI Design Engineering.
+- 🔭 I’m currently working on LSI Design Engineering in **Viet Nam**
 - 🌱 I’m currently learning Web Development, Data Science, Embedded System,...
 - 👯 I’m looking to collaborate on Open-Source Community.
 <!--
