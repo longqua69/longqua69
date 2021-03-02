@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 More information about me: [LinkedIn](https://www.linkedin.com/in/anh-tr%E1%BA%A7n-072b05169/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=longqua69&show_icons=true&theme=tokyonight" />
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=longqua69)]
