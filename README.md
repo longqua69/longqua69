@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # My skills:
 _ Functional Verification: C, Assembly, SystemVerilog, Scripting languages, SystemC.     
-_ Functional Design: Verilog (RTL).
+_ Functional Design: Verilog (RTL).    
 _ Mechanical Design Engineering skills: 3D Modeling (SolidWorks, Inventor,...)
 
 More information about me: [LinkedIn](https://www.linkedin.com/in/anh-tr%E1%BA%A7n-072b05169/)
