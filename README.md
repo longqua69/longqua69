@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on LSI Design Engineering in **Viet Nam**
-- 🌱 I’m currently learning Web Development, Data Science, Embedded System,...
+- 🌱 I’m currently learning Web Development, Data Science, Embedded System, Data Analytics from Google,...
 - 👯 I’m looking to collaborate on Open-Source Community.
 - 🤔 I’m looking for help with Embedded System and Data Science
 - 📫 How to reach me: longqua69@gmail.com
@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 
 # My skills:
-_ Functional Verification: C, Assembly, SystemVerilog, Scripting languages, SystemC.     
-_ Functional Design: Verilog (RTL).    
+_ LSI/VLSI Functional Verification: C, Assembly, SystemVerilog, Scripting languages, SystemC.     
+_ LSI/VLSI Functional Design: Verilog (RTL).    
 _ Mechanical Design Engineering skills: 3D Modeling (SolidWorks, Inventor,...)
 
 More information about me: [LinkedIn](https://www.linkedin.com/in/anh-tr%E1%BA%A7n-072b05169/)
