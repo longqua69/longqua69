@@ -21,6 +21,10 @@ _ LSI/VLSI Functional Verification: C, Assembly, SystemVerilog, Scripting langua
 _ LSI/VLSI Functional Design: Verilog (RTL).    
 _ Mechanical Design Engineering skills: 3D Modeling (SolidWorks, Inventor,...)
 
+# My hobbies:
+_ Football.
+_ Reading books.
+
 More information about me: [LinkedIn](https://www.linkedin.com/in/anh-tr%E1%BA%A7n-072b05169/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=longqua69&show_icons=true&theme=tokyonight" />
