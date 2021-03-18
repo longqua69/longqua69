@@ -29,4 +29,6 @@ More information about me: [LinkedIn](https://www.linkedin.com/in/anh-tr%E1%BA%A
 
 <img src="https://github-readme-stats.vercel.app/api?username=longqua69&show_icons=true&theme=tokyonight" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=stig124&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" />
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=longqua69)]
