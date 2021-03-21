@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 _ LSI/VLSI Functional Verification: C, Assembly, SystemVerilog, Scripting languages, SystemC.     
 _ LSI/VLSI Functional Design: Verilog (RTL), Timing Design.     
 _ Mechanical Design Engineering skills: 3D Modeling (SolidWorks, Inventor,...), FEA, Machine Desgin.    
-_ Automation Design Engineering skills: Design automation system.    
+_ Automation Design Engineering skills: Design automation system, PLC programming.    
 
 # My hobbies:
 _ Football.   
