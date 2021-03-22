@@ -25,6 +25,7 @@ _ Automation Design Engineering skills: Design automation system, PLC programmin
 # My hobbies:
 _ Football.   
 _ Reading books.   
+_ Contribute to Open-source.    
 
 More information about me: [LinkedIn](https://www.linkedin.com/in/anh-tr%E1%BA%A7n-072b05169/)
 
