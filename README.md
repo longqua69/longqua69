@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on LSI Design Engineering in **Viet Nam**
-- 🌱 I’m currently learning Web Development, Data Science, Embedded System, Data Analytics from Google,...
+- 🌱 I’m currently learning Web Development, Data Science/Data Analysis, Embedded System, Data Analytics from Google,...
 - 👯 I’m looking to collaborate on Open-Source Community.
 - 🤔 I’m looking for help with Embedded System and Data Science
 - 📫 How to reach me: longqua69@gmail.com or [Kaggle](https://www.kaggle.com/longqua69)
