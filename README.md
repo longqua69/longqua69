@@ -29,7 +29,7 @@ _ Football.
 _ Reading books.   
 _ Contribute to Open-source.    
 
-More information about me: [LinkedIn](https://www.linkedin.com/in/anh-tr%E1%BA%A7n-072b05169/)
+More information about me: [LinkedIn](https://www.linkedin.com/in/anh-tran-072b05169/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=longqua69&show_icons=true&theme=tokyonight" />
 
