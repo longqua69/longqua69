@@ -35,4 +35,4 @@ More information about me: [LinkedIn](https://www.linkedin.com/in/anh-tran-072b0
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=longqua69&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=longqua69)]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=longqua69&theme=neon-palenight)](https://git.io/streak-stats)
