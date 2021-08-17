@@ -23,6 +23,7 @@ _ Mechanical Design Engineering skills: 3D Modeling (SolidWorks, Inventor,...), 
 _ Automation Design Engineering skills: Design automation system, PLC programming.    
 _ Embedded Programming: Using C/C++ languages.    
 _ Data Analysis: Python, SQL, R.
+_ DevOps skills
 
 # My hobbies:
 _ Football.   
