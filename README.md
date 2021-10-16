@@ -22,7 +22,7 @@ _ LSI/VLSI Functional Design: Verilog (RTL), Timing Design.
 _ Mechanical Design Engineering skills: 3D Modeling (SolidWorks, Inventor,...), FEA, Machine Desgin.    
 _ Automation Design Engineering skills: Design automation system, PLC programming.    
 _ Embedded Programming: Using C/C++ languages.    
-_ Data Analysis: Python, SQL, R.
+_ Data Analysis: Python, SQL, R.  
 _ DevOps skills
 
 # My hobbies:
